@@ -26,7 +26,7 @@
 
 I am experiencing some issues on CLI deployment.I couldn't deploy it.  
 
-![CLI deploy](CLI-deploy.png)
+![CLI deploy](CLI.png)
 
 ![Environment](deployed.png)
 
