@@ -16,6 +16,20 @@
 - Using the same server, create a new environment using Elastic Beanstalk from your terminal
 - Manually deploy your application to this environment by using eb deploy
 
+## Approach and Efficiency
+
+- I tried to deploy the Event-driven Application. 
+
+### EC2 Deployment
+
+[GUI deploy](http://nodeapp-env.eba-m6pqrsmf.us-east-2.elasticbeanstalk.com/)
+
+I am experiencing some issues on CLI deployment.I couldn't deploy it.  
+
+![CLI deploy](CLI-deploy.png)
+
+![Environment](deployed.png)
+
 ### Collaborators
 
 - David
